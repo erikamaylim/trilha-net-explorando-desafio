@@ -23,3 +23,4 @@ reserva.CadastrarHospedes(hospedes);
 // Exibe a quantidade de hóspedes e o valor da diária
 Console.WriteLine($"Número de hóspedes: {reserva.ObterQuantidadeHospedes()}");
 Console.WriteLine($"Valor da diária: {reserva.CalcularValorDiaria():C}");
+

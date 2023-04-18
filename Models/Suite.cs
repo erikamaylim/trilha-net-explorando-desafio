@@ -16,3 +16,4 @@ namespace DesafioProjetoHospedagem.Models
         public decimal ValorDiaria { get; set; }
     }
 }
+
